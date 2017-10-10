@@ -1,4 +1,9 @@
-//write first method
+/*
+Kiran Aranha
+Javascript 1- 10
+10/9/2017
+*/
+
 function sleep_in(weekday, vacation) {
     if(weekday == false){
         return true;
